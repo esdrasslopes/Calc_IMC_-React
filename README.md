@@ -24,4 +24,5 @@ Este é um projeto simples de **Calculadora de IMC (Índice de Massa Corporal)**
 5. Abra um navegador e acesse `http://localhost5173`.
 
 **Importante**: É necessário ter o Node.js instalado na sua máquina para poder executar os comandos acima
-### Acesse o link : https://calc-imc-react-omega.vercel.app/
+### Acesse o link : 
+# https://calc-imc-react-omega.vercel.app/
