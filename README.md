@@ -11,9 +11,10 @@ Este é um projeto simples de **Calculadora de IMC (Índice de Massa Corporal)**
 
 ## Tecnologias Utilizadas
 
-- **React**: Biblioteca para construção de interfaces de usuário.
-- **CSS**: Para estilizar a aplicação.
-- **JavaScript**: Para lógica de cálculo do IMC.
+- **Vite**
+- **React**
+- **CSS**
+- **JavaScript**
 
 ## Instruções para Rodar o Projeto
 
