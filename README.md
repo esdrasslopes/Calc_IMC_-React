@@ -17,10 +17,11 @@ Este é um projeto simples de **Calculadora de IMC (Índice de Massa Corporal)**
 
 ## Instruções para Rodar o Projeto
 
-### 1. Clonando o Repositório
+### 1. Clone o repositório.
+2. Abra um terminal no diretório do projeto.
+3. Execute o comando `npm install` para instalar as dependências.
+4. Execute o comando `npm run dev` para iniciar o servidor de desenvolvimento.
+5. Abra um navegador e acesse `http://localhost5173`.
 
-Para clonar o repositório, utilize o comando abaixo:
-
-```bash
-git clone https://github.com/seu-usuario/calculadora-imc.git
-cd calculadora-imc
+**Importante**: É necessário ter o Node.js instalado na sua máquina para poder executar os comandos acima
+### Acesse o link : https://calc-imc-react-omega.vercel.app/
