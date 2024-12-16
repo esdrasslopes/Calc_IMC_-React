@@ -18,7 +18,7 @@ Este é um projeto simples de **Calculadora de IMC (Índice de Massa Corporal)**
 
 ## Instruções para Rodar o Projeto
 
-### 1. Clone o repositório.
+1. Clone o repositório.
 2. Abra um terminal no diretório do projeto.
 3. Execute o comando `npm install` para instalar as dependências.
 4. Execute o comando `npm run dev` para iniciar o servidor de desenvolvimento.
